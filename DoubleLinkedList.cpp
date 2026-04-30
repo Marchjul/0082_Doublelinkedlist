@@ -184,4 +184,6 @@ class DoubleLinkedList
             i--;
         }
     }
+
+    void searchData()
 };
